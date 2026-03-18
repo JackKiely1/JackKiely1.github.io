@@ -4,8 +4,8 @@ title: Project Poster
 permalink: /poster/
 ---
 
-## Project Poster
+## FindIT – Lost & Found Platform Poster
 
-This page will contain the final year project poster for the Lost & Found Mobile App.
+You can view or download the final year project poster below.
 
-The final poster will be uploaded here as a PDF for viewing and download.
+👉 [View / Download Poster](../assets/img/A1_Poster_JackKiely.pdf)
