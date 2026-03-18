@@ -1,16 +1,25 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the Project
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## About the Project
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The Lost & Found Mobile App is designed to improve how lost property is reported and recovered on a college campus. The project provides students and staff with a digital platform where lost and found items can be posted, viewed, and managed more efficiently.
 
-What else do you need?
+## Problem
 
-### My story
+Students regularly lose personal belongings such as keys, wallets, earphones, chargers, and student cards. Traditional lost-and-found systems are often inconsistent, difficult to access, or dependent on word of mouth.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Solution
+
+This project introduces a mobile application that creates a centralised and more organised process for reporting lost items and sharing found item information.
+
+## How it works
+
+A user can submit a lost item report or create a found item post. Other users can browse listings and identify possible matches based on item details, category, and location.
+
+## Project aim
+
+The aim of the project is to create a practical campus-based mobile solution that improves visibility, communication, and recovery outcomes for lost belongings.
