@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://jackkiely1.github.io/"
   About Project: "aboutme"
   Poster: "poster"
-  GitHub Repo: "https://github.com/JackKiely1/JackKiely1.github.io"
+  GitHub Repo: "https://github.com/JackKiely1/lost-and-found-webapp"
 
 ################
 # --- Logo --- #
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "JackKiely1.github.io"
+url-pretty: "https://github.com/JackKiely1/lost-and-found-webapp"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
