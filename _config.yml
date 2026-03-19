@@ -20,7 +20,6 @@ author: Jack Kiely
 ###############################################
 
 navbar-links:
-  Home: "index"
   About Project: "aboutme"
   Features: "features"
   Poster: "poster"
