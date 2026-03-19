@@ -20,8 +20,9 @@ author: Jack Kiely
 ###############################################
 
 navbar-links:
-  Home: "https://jackkiely1.github.io/"
+  Home: ""
   About Project: "aboutme"
+  Features: "features"
   Poster: "poster"
   GitHub Repo: "https://github.com/JackKiely1/lost-and-found-webapp"
 
@@ -130,16 +131,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+text-col: "#435465"
+link-col: "#0062AF"
+hover-col: "#378B84"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#435465"
+navbar-border-col: "#D9DEE3"
+footer-col: "#435465"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FCCA3A"
+footer-hover-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
