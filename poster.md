@@ -12,10 +12,10 @@ permalink: /poster/
 Below is the final year project poster for the FindIT platform.
 </p>
 
-<img src="/assets/img/A1_Poster_JackKiely.png" 
+<img src="/assets/img/A1_Poster_JackKiely(1).png" 
 style="width:100%; max-width:850px; border-radius:12px; box-shadow:0 6px 18px rgba(67,84,101,0.18); margin-bottom:30px;">
 
-<a href="/assets/img/A1_Poster_JackKiely.pdf"
+<a href="/assets/img/A1_Poster_JackKiely(1).pdf"
 style="display:inline-block; padding:12px 22px; background:#378B84; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
 Download Poster PDF
 </a>
